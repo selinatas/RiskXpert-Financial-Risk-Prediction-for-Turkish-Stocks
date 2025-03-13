@@ -32,7 +32,7 @@ Features Extracted:
 ## **Installation & Usage** ⚙️
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/yourusername/riskxpert.git
+git clone https://github.com/selinatas/riskxpert.git
 cd riskxpert
 ```
 ### **2. Install Dependencies**
